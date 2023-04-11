@@ -1,0 +1,5 @@
+a=input('digite algo:')
+print('é mausculo?',a.isupper())
+print('é minusculo?', a.islower())
+print('é numerico?' ,a.isnumeric())
+print('tem espaço?' ,a.isspace())

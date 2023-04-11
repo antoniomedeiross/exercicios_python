@@ -1,0 +1,7 @@
+n=int(input('digite um número: '))
+d=(n+n)
+t=(n+n+n)
+r=(n**2)
+print(f'o dobro de {n} é {d}')
+print(f'o triplo é {t}')
+print( f'a raiz é {r}' )
