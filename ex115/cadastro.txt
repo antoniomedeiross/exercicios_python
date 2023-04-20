@@ -1,0 +1,4 @@
+antonio;18
+ana;35
+mariana;102
+josefa;66
